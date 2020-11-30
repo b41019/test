@@ -10,7 +10,8 @@ J<!DOCTYPE html>
         table{
             width:750px;
             margin:auto;
-            border:1px solid #ccc;
+            border:1px solid #eee;
+
         }
         table  td {
             border:1px solid #ccc;
